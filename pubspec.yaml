@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   dio:
+  get:
 
 dev_dependencies:
   flutter_test:
